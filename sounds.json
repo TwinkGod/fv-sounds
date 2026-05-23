@@ -1,0 +1,32 @@
+[
+  {
+    "id": "horn-1",
+    "title": "Air Horn",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fs-mods/main/sounds/airhorn.mp3",
+    "category": "Effects",
+    "emoji": "📯",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-01"
+  },
+  {
+    "id": "crowd-cheer",
+    "title": "Crowd Cheer",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fs-mods/main/sounds/crowd-cheer.mp3",
+    "category": "Crowd",
+    "emoji": "🎉",
+    "color": "",
+    "early_access": false,
+    "added_at": "2025-05-10"
+  },
+  {
+    "id": "vip-drop",
+    "title": "VIP Drop",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fs-mods/main/sounds/vip-drop.mp3",
+    "category": "Music",
+    "emoji": "⭐",
+    "color": "#b45309",
+    "early_access": true,
+    "added_at": "2025-05-20"
+  }
+]
