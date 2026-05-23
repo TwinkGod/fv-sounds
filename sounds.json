@@ -308,5 +308,1005 @@
     "color": "#7c3aed",
     "early_access": false,
     "added_at": "2025-05-01"
+  },
+  {
+    "id": "Dynamite",
+    "title": "Dynamite",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/Dynamite.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "RaiseUp",
+    "title": "Raise Up",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/Raise up.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "RetroLaser",
+    "title": "Retro Laser",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/Retro Laser.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "Scatman",
+    "title": "Scatman",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/Scatman.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "Schneller",
+    "title": "Schneller",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/schneller.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "Schrei",
+    "title": "Schrei",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/Schrei.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "ScratchInterrupt",
+    "title": "Scratch Interrupt",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/Scratch Interrupt.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "Sensation",
+    "title": "Sensation",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/Sensation.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "ShowIsAboutToBegin",
+    "title": "Show Is About To Begin",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/Show is about to begin.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "SillyMusic",
+    "title": "Silly Music",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/Silly Music.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "SlowDown",
+    "title": "Slow Down",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/Slow down.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "StarWarsLong",
+    "title": "Star Wars Long",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/Star Wars Long.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "StarWarsShort",
+    "title": "Star Wars Short",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/Star Wars Short.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "TakeMeForARide",
+    "title": "Take Me For A Ride",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/Take me for a ride.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "Tempo",
+    "title": "Tempo",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/Tempo.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "ThisIsNo1",
+    "title": "This Is No.1",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/This is No.1.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "ThunderCountdown",
+    "title": "Thunder Countdown",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/Thunder Countdown.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "TimeForFun",
+    "title": "Time For Fun",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/Time for fun.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "Tsunami",
+    "title": "Tsunami",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/Tsunami.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "TwirlUp",
+    "title": "Twirl Up",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/Twirl Up.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "Ulala",
+    "title": "Ulala",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/Ulala.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "UpAndDown",
+    "title": "Up And Down",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/Up and down.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "Videoplayback",
+    "title": "Videoplayback",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/videoplayback.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "VolligLosgelost",
+    "title": "Völlig Losgelöst",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/vollig-losgelost_5GLukLJ.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "VorsichtBeimRausfallen",
+    "title": "Vorsicht Beim Rausfallen!",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/Vorsicht beim rausfallen !.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "Wahnsinn",
+    "title": "Wahnsinn",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/Wahnsinn.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "Waitzer",
+    "title": "Waitzer",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/Waitzer.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "WeWillRockYou",
+    "title": "We Will Rock You!",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/We will rock you !.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "ZwipZwipZwip",
+    "title": "Zwip Zwip Zwip",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/Zwip zwip zwip.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "Zwirl",
+    "title": "Zwirl",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/Zwirl.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "CarHorn",
+    "title": "Car Horn",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/0.Car Horn.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "ClassicHorn",
+    "title": "Classic Horn",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/0.Classic Horn.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "HellesHorn",
+    "title": "Helles Horn",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/0.Helles Horn.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "HornDeep",
+    "title": "Horn Deep",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/0.Horn Deep.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "HornHigh",
+    "title": "Horn High",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/0.Horn High.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "ModernHorn",
+    "title": "Modern Horn",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/0.Modern Horn.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "OldHorn",
+    "title": "Old Horn",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/0.Old Horn.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "PartyHorn",
+    "title": "Party Horn",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/0.Party Horn.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "RetroHorn",
+    "title": "Retro Horn",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/0.Retro Horn.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "ShortHorn",
+    "title": "Short Horn",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/0.Short Horn.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "SpaceAlarm",
+    "title": "Space Alarm",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/0.Space Alarm.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "BuyTicketsForNextRide",
+    "title": "Buy Tickets For Next Ride",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/1.Buy tickets for next ride.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "CountdownIntro",
+    "title": "Countdown Intro",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/1.Countdown Intro.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "IfYouHave",
+    "title": "If You Have",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/1.If you have.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "KapitanIntro",
+    "title": "Kapitän Intro",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/1.Kapitän Intro.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "KapitanKurzIntro",
+    "title": "Kapitän Kurz Intro",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/1.Kapitän Kurz Intro.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "NeueRundeAnsage",
+    "title": "Neue Runde Ansage",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/1.Neue Runde Ansage.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "PullDown",
+    "title": "Pull Down!",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/1.Pull Down!.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "SafetyBars",
+    "title": "Safety Bars",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/1.Safety Bars.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "SindSieBereitIntro",
+    "title": "Sind Sie Bereit Intro",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/1.Sind Sie bereit Intro.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "SpaceIntro",
+    "title": "Space Intro",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/1.Space Intro.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "SpassBeginnAnsage",
+    "title": "Spaß Beginnt Ansage",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/1.Spaß beginnt Ansage.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "SteigenSieZuAnsage",
+    "title": "Steigen Sie Zu Ansage",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/1.Steigen Sie zu Ansage.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "Countdown50",
+    "title": "2.5-0 Countdown",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/2.5-0 Countdown.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "AbflugAnsage",
+    "title": "Abflug Ansage",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/2.Abflug Ansage.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "ShortCountdown",
+    "title": "Short Countdown",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/2.aShort Countdown.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "LongCountdown",
+    "title": "Long Countdown",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/2.bLong Countdown.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "BrightCountdown",
+    "title": "Bright Countdown",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/2.cBright Countdown.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "DarkCountdown",
+    "title": "Dark Countdown",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/2.Dark Countdown.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "LangsamAnfangenAnsage",
+    "title": "Langsam Anfangen Ansage",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/2.eLangsam anfangen Ansage.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "ElectricCountdown",
+    "title": "Electric Countdown",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/2.Electric Countdown.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "FireCountdown",
+    "title": "Fire Countdown",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/2.Fire Countdown.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "HandsUp",
+    "title": "Hands Up!",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/2.Hands Up!.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "PartyCountdown",
+    "title": "Party Countdown",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/2.Party Countdown.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "ReplayAnsage",
+    "title": "Replay Ansage",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/3.fReplay Ansage.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "JetztAberAnsage",
+    "title": "Jetzt Aber Ansage",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/3.gJetzt aber Ansage.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "NochmalMitSchwung",
+    "title": "Nochmal Mit Schwung",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/3.hNochmal mit Schwung.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "LetsGetFreaky",
+    "title": "Lets Get Freaky",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/3.LETS GET FREAKY.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "LetzteRundeAnsage",
+    "title": "Letzte Runde Ansage",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/3.Letzte Runde Ansage.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "PullUp",
+    "title": "Pull Up!",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/3.Pull Up!.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "EndeAnsage",
+    "title": "Ende Ansage",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/3.yEnde Ansage.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "BugelHochdruckenAnsage",
+    "title": "Bügel Hochdrücken Ansage",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/3.zBügel hochdrücken Ansage.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "TwentiethCenturyFox",
+    "title": "20th Century Fox",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/20th Century Fox.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "AreYouReadyRobot",
+    "title": "Are You Ready Robot",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/Are you ready Robot.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "Babyyyyy",
+    "title": "Babyyyyy",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/babyyyyy.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "Breakdance",
+    "title": "Breakdance",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/Breakdance.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "Bumaye",
+    "title": "BUMAYE",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/BUMAYE.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "CantTouchThis",
+    "title": "Can't Touch This",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/Can't touch this.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "CartoonSound",
+    "title": "Cartoon Sound",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/Cartoon Sound.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "Cowboy",
+    "title": "Cowboy",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/Cowboy.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "Destination",
+    "title": "Destination",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/Destination.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "DoorSlam",
+    "title": "Door Slam",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/Door Slam.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "Dramatic",
+    "title": "DRAMATIC",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/DRAMATIC.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "DrehenWirAuf",
+    "title": "Drehen Wir Auf",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/drehen wir auf.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "StarLightIntro",
+    "title": "Fairground Online - StarLight Intro",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/Fairground Online - StarLight Intro.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "TurakaIntroByDaniel",
+    "title": "Fairground Online - Turaka Intro By Daniel",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/Fairground Online - Turaka Intro by Daniel.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "TurakaIntroOfficial",
+    "title": "Fairground Online - Turaka Intro Official",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/Fairground Online - Turaka Intro Official.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "XplosionIntro",
+    "title": "Fairground Online - Xplosion Intro",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/Fairground Online - Xplosion Intro.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "FangenWirLangsamAn",
+    "title": "Fangen Wir Langsam An",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/fangen wir langsam an.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "Feedback",
+    "title": "Feedback",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/Feedback.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "Formula",
+    "title": "Formula",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/Formula.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "GameOverSound",
+    "title": "Game Over Sound",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/Game Over Sound.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "GoGoGo",
+    "title": "Go Go Go",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/Go Go Go.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "GruseligesLachen",
+    "title": "Gruseliges Lachen",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/Gruseliges Lachen.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "Hammer",
+    "title": "Hammer",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/Hammer.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "HarlekinMusik",
+    "title": "Harlekin Musik",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/Harlekin Musik.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "HelloBaby",
+    "title": "Hello Baby!",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/Hello Baby !.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "HereWeGo",
+    "title": "Here We Go",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/Here we go.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "HighEnergy",
+    "title": "High Energy",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/High Energy.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "HighSpeed",
+    "title": "High Speed",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/High Speed.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
   }
 ]
