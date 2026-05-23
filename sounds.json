@@ -1308,5 +1308,275 @@
     "color": "#7c3aed",
     "early_access": false,
     "added_at": "2025-05-23"
+  },
+  {
+    "id": "NieuweRonde",
+    "title": "Neue Ronde",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/neue runde.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "NichtRausspringen",
+    "title": "Nicht Rausspringen",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/Nicht rausspringen.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "NochEineRunde",
+    "title": "Noch Eine Runde",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/noch eine runde.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "Pacman",
+    "title": "Pacman",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/Pacman.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "Pirates",
+    "title": "PIRATES",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/PIRATES.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "PoliceSiren",
+    "title": "Police Siren",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/Police Siren.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "PopUpTheVolume",
+    "title": "Pop Up The Volume",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/Pop up the volume.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "Power",
+    "title": "Power",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/Power.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "EinerGehtAufsHaus",
+    "title": "Einer Geht Aufs Haus",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/einer geht aufs haus.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "EinerGehtNoch",
+    "title": "Einer Geht Noch!",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/Einer geht noch !.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "Endstress",
+    "title": "Endstress",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/Endstress.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "IFeelGood2",
+    "title": "I Feel Good",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/I feel good.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "Interlude",
+    "title": "Interlude",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/Interlude.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "ItsShowtime",
+    "title": "Its Showtime",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/Its Showtime.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "IveGotThePower",
+    "title": "I've Got The Power",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/I've got the power.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "Jodeln",
+    "title": "Jodeln",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/Jodeln.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "Jungle",
+    "title": "Jungle",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/Jungle.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "KirmesMotor",
+    "title": "Kirmes Motor",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/kirmes-motor.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "KnightRider",
+    "title": "Knight Rider",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/Knight Rider.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "Lachanfall",
+    "title": "Lachanfall",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/Lachanfall.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "Laser",
+    "title": "Laser",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/Laser.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "LetsGetReadyToRumble",
+    "title": "Lets Get Ready To Rumble!",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/Lets get ready to rumble !.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "LosGehts",
+    "title": "Los Gehts",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/los gehts.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "Los2",
+    "title": "Los 2",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/los2.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "MajorTom",
+    "title": "Major Tom",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/Major Tom.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "MotorSound",
+    "title": "Motor Sound",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/Motor Sound.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
+  },
+  {
+    "id": "MusicPower",
+    "title": "Music Power",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/Music power.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-23"
   }
 ]
