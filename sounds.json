@@ -268,5 +268,45 @@
     "color": "#7c3aed",
     "early_access": false,
     "added_at": "2025-05-01"
+  },
+  {
+    "id": "DanceWithTheDevil",
+    "title": "Dance With The Devil",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/dance_with_the_devil.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-01"
+  },
+  {
+    "id": "AlweerEenWinnaar",
+    "title": "Alweer Een Winnaar",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/alweer-een-winnaar.mp3",
+    "category": "Stall-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-01"
+  },
+  {
+    "id": "KermisBlub",
+    "title": "Kermis Blub",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/kermis-blub.mp3",
+    "category": "Ride-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-01"
+  },
+  {
+    "id": "Kamelenrace",
+    "title": "Kamelenrace",
+    "url": "https://raw.githubusercontent.com/TwinkGod/fv-sounds/main/sounds/kamelenrace.mp3",
+    "category": "Stall-Jingles",
+    "emoji": "🎡",
+    "color": "#7c3aed",
+    "early_access": false,
+    "added_at": "2025-05-01"
   }
 ]
